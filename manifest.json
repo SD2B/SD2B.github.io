@@ -1,6 +1,6 @@
 {
-    "name": "my_portfolio",
-    "short_name": "my_portfolio",
+    "name": "Code Life",
+    "short_name": "Code Life",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
