@@ -93023,7 +93023,7 @@ else q=q.rl((A.ai(a).ay.a===B.G?A.vd():A.vc()).r,12,B.n)
 B.b.C(m,A.a([A.n1(A.a([A.dT(r,o,o,q,B.hI,o)],s),B.a4,B.b9,B.O)],s))}return A.dJ(m,n,B.ab,B.O)}}
 A.Qa.prototype={
 kN(a,b){var s=A.aIg(B.A_),r=A.aIg(B.l5)
-return new A.wo($.aRP(),"Flutter Demo",s,r,B.l5,!1,null)}}
+return new A.wo($.aRP(),"Code Life",s,r,B.l5,!1,null)}}
 A.ez.prototype={
 j(a){return"SkillModel(id: "+A.h(this.a)+", name: "+A.h(this.b)+", svg: "+A.h(this.c)+")"},
 k(a,b){var s,r=this
