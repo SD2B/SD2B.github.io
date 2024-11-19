@@ -80989,7 +80989,7 @@ A.a39.prototype={
 $0(){A.ie(A.bP("https://wa.me/9656595353",0,null))},
 $S:0}
 A.pA.prototype={
-I(a){var s,r,q,p,o=null,n=A.b_7(new A.ML(A.u(t.N,t.yi)),t.GJ).a,m=t.w,l=A.aU(a,o,m).w.a.a>=1024,k=[new A.LG(o),new A.Pn(o),new A.NM(o),new A.Nz(o),new A.JY(o),A.dc("Developed by Sanoop Das",o,o,o,o,o)],j=$.ac().EM(15,15,B.c_),i=A.ft(20),h=A.a4(153,0,0,0),g=l?A.aU(a,o,m).w.a.a-100:A.aU(a,o,m).w.a.a,f=l?A.aU(a,o,m).w.a.b-100:A.aU(a,o,m).w.a.b-80,e=l?600:A.aU(a,o,m).w.a.a,d=l?600:A.aU(a,o,m).w.a.b
+I(a){var s,r,q,p,o=null,n=A.b_7(new A.ML(A.u(t.N,t.yi)),t.GJ).a,m=t.w,l=A.aU(a,o,m).w.a.a>=1024,k=[new A.LG(o),new A.Pn(o),new A.NM(o),new A.Nz(o),new A.JY(o),A.dc("Developed by Sanoop Das",o,o,o,o,o)],j=$.ac().EM(15,15,B.c_),i=A.ft(20),h=A.a4(153,0,0,0),g=l?A.aU(a,o,m).w.a.a-100:A.aU(a,o,m).w.a.a,f=l?A.aU(a,o,m).w.a.b-100:A.aU(a,o,m).w.a.b,e=l?600:A.aU(a,o,m).w.a.a,d=l?600:A.aU(a,o,m).w.a.b
 m=A.aU(a,o,m).w
 s=t.p
 r=A.a([A.br(o,30,o)],s)
