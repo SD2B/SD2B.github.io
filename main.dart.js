@@ -27882,7 +27882,7 @@ A.av_.prototype={
 $1(a){var s=A.ep().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/db49896cf25ceabc44096d5f088d86414e05a7aa/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a18df97ca57a249df5d8d68cd0820600223ce262/":s)+a},
 $S:42}
 A.a2m.prototype={
 cv(a){B.d.ab(this.a.a.save())},
@@ -81505,7 +81505,7 @@ s=A.az_(q,B.G,B.aS,k,s)
 q=A.bc(k,40,k)
 i=h?A.aK(a,k,i).w.a.a-400:A.aK(a,k,i).w.a.a-80
 p=A.pe().$2$fontSize$letterSpacing(24,h?k:0)
-return A.dK(A.a([s,q,A.bc(A.cS("\u26aa   I am a Flutter developer focused on creating multiplatform applications with seamless functionality and user-friendly design. Proficient in Flutter and Dart, I develop solutions for Web, Android, iOS, Windows, macOS, and Linux, always prioritizing the user experience. I am committed to continuously improving my skills and contributing to meaningful projects.",k,k,p,h?k:B.ex,k),k,i)],r),B.G,B.X,B.bV,k,B.A)}}
+return A.dK(A.a([s,q,A.bc(A.cS("\u26aa   My name is Sanoop Das, and I am from Malappuram, Kerala. I am a Flutter developer focused on creating multiplatform applications with seamless functionality and user-friendly design. Proficient in Flutter and Dart, I develop solutions for Web, Android, iOS, Windows, macOS, and Linux, always prioritizing the user experience. I am committed to continuously improving my skills and contributing to meaningful projects.\n\nAfter completing my Bachelor\u2019s degree in Computer Science, I pursued a Master\u2019s degree in Computer Applications, which gave me a solid foundation in programming and application development.\n\nI started my professional journey with an internship at Ralfiz Technologies, where I gained hands-on experience working on projects for Indian and international clients. This role helped me understand the nuances of developing high-quality applications. Later, I joined Screl Info Pvt. Ltd. as a Flutter Developer, where I contributed to several cross-platform projects, improving user engagement and ensuring timely delivery of applications.\n\nCurrently, I am a freelance Flutter developer, working on a variety of projects that allow me to explore innovative solutions. My most notable works include:\n- ISSELO: A restaurant management and POS software offering robust offline and online syncing features for uninterrupted service.\n- Hozzo: India\u2019s leading car wash application, where I introduced water-saving features, reducing usage by 40%.\n\nIn addition to my professional work, I actively contribute to the Flutter community by publishing tools like SmartTip and SmartWrap on pub.dev, helping developers create flexible and customizable UI components.\n\nWhen I\u2019m not coding, I enjoy spending time with dogs and birds, playing video games, and exploring new technologies. I am fluent in English, Malayalam, Hindi, and Tamil, which enables me to connect with people from different backgrounds.\n\nI am now seeking a permanent role in a reputable company where I can contribute to impactful projects and continue to grow as a developer.",k,k,p,h?k:B.ex,k),k,i)],r),B.G,B.X,B.bV,k,B.A)}}
 A.a8A.prototype={
 $2(a,b){var s,r,q=null
 if(J.e(b.b,!0))s=A.aBn(A.cS("A Flutter Developer",q,q,A.pe().$1$fontSize(this.a?48:40),q,B.V)).QL(A.aCS(q,q,q,A.cN(0,500),q))
@@ -81535,7 +81535,7 @@ A.a8F.prototype={
 $0(){A.ij(A.bP("https://wa.me/9656595353",0,null))},
 $S:0}
 A.a8G.prototype={
-$0(){A.ij(A.bP("https://drive.google.com/file/d/1l1EmPs7mLoccS_V6e7RRpBrg-fSZaRqP/view?usp=sharing",0,null))},
+$0(){A.ij(A.bP("https://drive.google.com/file/d/1rbEgD025TUoBWKfC7P2bIRn-t3LcTts4/view?usp=sharing",0,null))},
 $S:0}
 A.M_.prototype={
 I(a){var s,r,q=null,p=t.w,o=A.aK(a,q,p).w.a.a>=1024,n=o?A.aK(a,q,p).w.a.a/2.2:200
